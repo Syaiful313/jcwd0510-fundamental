@@ -54,3 +54,8 @@ for (let i = 1; i <= number1; i++) {
 console.log(`Faktorial dari ${number1} adalah: ${factorial}`);
 
 // no.5
+
+
+console.log();
+console.log();
+console.log();
